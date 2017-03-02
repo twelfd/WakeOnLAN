@@ -25,4 +25,4 @@ class WakeOnLAN
     }
 }
 
-wakeUp('78:24:af:8f:b0:ee', '192.168.128.255');
+wakeUp('78:24:af:xx:xx:xx', '192.168.1.255');
